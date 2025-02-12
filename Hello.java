@@ -1,0 +1,10 @@
+//This is my First java program
+
+import java.lang.*;
+class Hello
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hello World!");
+	}
+}
